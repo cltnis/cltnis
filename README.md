@@ -9,32 +9,14 @@
 ## 🧠 About Me
 
 * 💻 Interested in: Computing/Computers and OGFN
-* 🎮 Big into: gaming & online communities
+* 🎮 Big into: Gaming & Online Communities
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Where to find me?:
 
-> Pin these repos on your profile for extra flex
-
-* 🔥 **Project Name** – short one-line description
-* 🚀 **Project Name** – what it does / why it's cool
-* 🧪 **Project Name** – WIP / experiment
+* Discord: `.coltonis`
+* YouTube: *[link](https://www.youtube.com/@ColtonPlays2)*
+* Twitter / X: *[link](https://x.com/Plays2Colton)*
 
 ---
-
-## 📊 GitHub Stats (optional)
-
-You can add stats cards here later if you want.
-
----
-
-## 🌐 Find Me Elsewhere
-
-* Discord: `yourusername`
-* YouTube: *link*
-* Twitter / X: *link*
-
----
-
-⭐ If you like my work, feel free to follow — more coming soon.
