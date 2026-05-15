@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://lanyard.cnrad.dev/api/943299171006439495?theme=dark&animated=true&borderRadius=20px" alt="Discord Presence"/>
-</p>
-
 # 👋 Hey, I'm Colton
 
 
