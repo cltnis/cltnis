@@ -12,7 +12,7 @@
 ## 🌐 Where to find me?:
 
 * Discord: `.coltonis`
-* YouTube: *[link](https://www.youtube.com/@ColtonPlays2)*
-* Twitter / X: *[link](https://x.com/Plays2Colton)*
-* Scoob.me: [link](https://colton.scoob.me/)
+* YouTube: *[link](https://www.youtube.com/@coltonis)*
+* Twitter / X: *[link](https://x.com/coltonisyt)*
+* Scoob.me: *[link](https://colton.scoob.me/)*
 ---
