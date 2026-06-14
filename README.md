@@ -14,5 +14,5 @@
 * Discord: `.coltonis`
 * YouTube: *[link](https://www.youtube.com/@ColtonPlays2)*
 * Twitter / X: *[link](https://x.com/Plays2Colton)*
-* Scoob: [link](https://colton.scoob.me/)
+* Scoob.me: [link](https://colton.scoob.me/)
 ---
