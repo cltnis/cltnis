@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 Where to find me?:
+## 🌐 Where to find me?
 
 * Discord: `.coltonis`
 * YouTube: *[link](https://www.youtube.com/@coltonis)*
